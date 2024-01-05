@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "abi-decoder": "^2.4.0",
-    "axios": "^0.21.3",
+    "axios": "^1.6.4",
     "big-number": "^2.0.0",
     "colors": "^1.4.0",
     "ethereumjs-tx": "^2.1.2",
